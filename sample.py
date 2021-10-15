@@ -239,3 +239,4 @@ for val in range(5):
     if val % 2 == 0:
         continue
     print("↑odd")
+
